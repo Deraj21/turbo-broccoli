@@ -1,0 +1,1 @@
+const awesome = require('fontAwesome')
